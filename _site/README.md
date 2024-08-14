@@ -1,1 +1,0 @@
-# izhanugr.github.io https://kinsta.com/blog/jekyll-static-site/
