@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "belajar!"
+date:   2024-08-14 17:23:03 +0200
+categories: pertama
+---
+ini adalah post pertama, ini adalah pini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ost pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, ini adalah post pertama, 
